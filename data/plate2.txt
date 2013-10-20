@@ -1,0 +1,34 @@
+GOI1	96.5
+Control1	95.6
+Control2	96.5
+gene	individual name	species/tissue name	CT
+GOI1	IndH1	hLiver	21.35
+GOI1	IndH1	hLiver	22.01
+GOI1	IndH1	hLiver	22.06
+Control1	IndH1	hLiver	21.45
+Control1	IndH1	hLiver	21.55
+Control1	IndH1	hLiver	22.24
+Control2	IndH1	hLiver	22.45
+Control2	IndH1	hLiver	22.55
+Control2	IndH1	hLiver	23.24
+GOI1	IndC1	cLiver	21.35
+GOI1	IndC1	cLiver	22.241
+GOI1	IndC1	cLiver	22.24
+Control1	IndC1	cLiver	21.45
+Control1	IndC1	cLiver	21.55
+Control1	IndC1	cLiver	22.24
+Control2	IndC1	cLiver	21.55
+Control2	IndC1	cLiver	22.55
+Control2	IndC1	cLiver	21.55
+GOI1	interruns1	cells	21.20
+GOI1	interruns1	cells	22.60
+GOI1	interruns1	cells	24.20
+GOI2	interruns1	cells	22.70
+GOI2	interruns1	cells	23.20
+GOI2	interruns1	cells	24.20
+Control1	interruns1	cells	21.26
+Control1	interruns1	cells	21.25
+Control1	interruns1	cells	21.21
+Control2	interruns1	cells	22.24
+Control2	interruns1	cells	22.23
+Control2	interruns1	cells	22.21

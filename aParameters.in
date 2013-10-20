@@ -1,0 +1,12 @@
+PLATES = data/plate1.txt,data/plate2.txt
+OUTPUT FILE NAME = example.out
+CONTROLS = Control1,Control2
+GOIs = GOI1
+STDV = -1
+INTERRUNS = Yes
+INTERRUNS (TISSUE,INDIVIDUAL) = cells,interruns1
+INTERRUNS (GENES) = GOI1
+INTERRUNS (CONTROLS) = Control1,Control2
+EXPRESSION REFERENCE = 0
+FULL SPECIES NAMES = c:Chimpanzee,h:Human
+REPLICATES = Yes
